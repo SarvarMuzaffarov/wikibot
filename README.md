@@ -1,0 +1,2 @@
+# wikibot
+wiki bot uzb
